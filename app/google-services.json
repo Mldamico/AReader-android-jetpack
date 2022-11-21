@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787996272833",
+    "project_id": "areader-816b0",
+    "storage_bucket": "areader-816b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787996272833:android:dd1d9216f735553b41cc40",
+        "android_client_info": {
+          "package_name": "com.example.areader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787996272833-7skfnfhrs9r072u03fjt20hn82qdnlgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtlKl5JJiQpLl5Js3F-6o2vw3xcfwdhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787996272833-7skfnfhrs9r072u03fjt20hn82qdnlgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
